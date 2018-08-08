@@ -42,4 +42,4 @@ k=40, f1=22.11%, precision=23.10%, recall=21.20%
 k=80, f1=25.51%, precision=19.71%, recall=36.18%
 k=160, f1=23.35%, precision=14.85%, recall=54.54%
 ```
-UserCF is just a little better then MostPopular when k is large.
+UserCF is just a little better than MostPopular when k is large:(
